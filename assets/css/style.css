@@ -73,7 +73,7 @@ header nav ul li {
 }
 
 /* Benefits side panel styling and dimensions */
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
